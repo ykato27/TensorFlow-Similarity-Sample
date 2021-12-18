@@ -1,6 +1,6 @@
-# python-template-repository
+# TensorFlow-Similarity-Sample
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+TensorFlow Similarity を用いて距離学習を実施するサンプル
 
 ## リポジトリ構成
 
